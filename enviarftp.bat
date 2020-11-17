@@ -1,0 +1,1 @@
+winscp /script=enviarftp.txt

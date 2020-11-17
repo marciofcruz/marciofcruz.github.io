@@ -1,0 +1,3 @@
+open ftp://carolinaromeo:iara55@ftp.marciofcruz.com
+put sobremim\index.html /public_html/marciofcruz/sobremim/index.html
+exit
